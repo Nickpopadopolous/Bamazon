@@ -1,0 +1,24 @@
+{
+  "name": "nick",
+  "version": "1.0.0",
+  "description": "bamazoncustomer.js",
+  "main": "bamazoncustomer.js",
+  "dependencies": {
+    "inquirer": "^2.0.0",
+    "mysql": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickpopadopolous/Bamazon.git"
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nickpopadopolous/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Nickpopadopolous/Bamazon#readme"
+}
